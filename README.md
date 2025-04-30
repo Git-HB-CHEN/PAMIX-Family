@@ -32,10 +32,10 @@ This repository provides the official implementation of **Multi-Level Peritumora
 
 ## ✨Model & Weights
 
-|  Models   | Weights for BUS-BRA | Weights for BUSI | Weights for QAMEBI |
-| :-------: | :-----------------: | :--------------: | :----------------: |
-|   PAMIX   |       Weights       |     Weights      |      Weights       |
-| Uni-PAMIX |       Weights       |     Weights      |      Weights       |
+|  Models   |                     Weights for BUS-BRA                      | Weights for BUSI | Weights for QAMEBI |
+| :-------: | :----------------------------------------------------------: | :--------------: | :----------------: |
+|   PAMIX   | [Weights](https://drive.google.com/file/d/1neCewcwssZMjPhGmzs2AubSr4g3B0IxP/view?usp=drive_link) |     Weights      |      Weights       |
+| Uni-PAMIX | [Weights](https://drive.google.com/file/d/1wrmwtDUlOneW5N-ukyviJXcpSRhGhy8h/view?usp=drive_link) |     Weights      |      Weights       |
 
 
 
@@ -65,7 +65,7 @@ This repository provides the official implementation of **Multi-Level Peritumora
 
 ## ✨Inference using PAMIX & Uni-PAMIX
 
-1. Download the [Weights](https://drive.google.com/drive/folders/1A8IN0WyDxKt5qVAYgrShrkLPRppAxe7A?usp=drive_link) of the PAMIX-Family
+1. Download the `Weights` of the PAMIX-Family
 
 2. Place your images in the `examples` folder
 
